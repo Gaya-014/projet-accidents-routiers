@@ -1,0 +1,7 @@
+donnees_brutes/
+donnees_propres/
+venv/
+.ipynb_checkpoints/
+__pycache__/
+accidents_routiers.ipynb
+accidents_routiers_complet.ipynb
