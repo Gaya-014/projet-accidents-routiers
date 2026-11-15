@@ -1,0 +1,14 @@
+# Thème : affiche de sécurité routière. Fond clair, bleu de panneau, noir pour le texte.
+[theme]
+base = "light"
+primaryColor = "#1148B8"
+backgroundColor = "#F3F5F9"
+secondaryBackgroundColor = "#E3E8F0"
+textColor = "#111827"
+font = "sans serif"
+
+[client]
+toolbarMode = "minimal"
+
+[browser]
+gatherUsageStats = false
